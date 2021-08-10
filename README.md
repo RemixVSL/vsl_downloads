@@ -23,4 +23,8 @@ cd vsl_downloads
 ./mk_vsl3_firmware.sh #<--for VSL3 firmware
 ./mk_vsl4_firmware.sh #<--for VSL4 firmware
 ```
+## How to Get Help
+- Open an issue in this Github repo
+- Join our Discord server at https://discord.gg/EAcujJkt
+
 Let us know how we can make this Readme better!
