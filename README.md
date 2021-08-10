@@ -20,6 +20,6 @@ To get the files, simply run:
 ```
 git clone https://github.com/bplein/vsl_downloads.git
 cd vsl_downloads
-mk_vsl3_firmware.sh #<--for VSL3 firmware
-mk_vsl4_firmware.sh #<--for VSL4 firmware
+./mk_vsl3_firmware.sh #<--for VSL3 firmware
+./mk_vsl4_firmware.sh #<--for VSL4 firmware
 ```
