@@ -1,4 +1,8 @@
 #!/usr/bin/env bash
 echo "Creating fusion_4.3.7-20200113.fff from the split files"
-cat vsl4/fusion_4.3.7-20200113.fff.tgz.parta* | tar -xjv - fusion_4.3.7-20200113.fff
-echo "Done! Looks for fusion_4.3.7-20200113.fff in your current directory"
+echo "--------------"
+files=$(find vsl4 | grep "fff.tgz.part" | sort)
+#echo $files
+cat $files | tar -xzv usion_4.3.7-20200113.fff
+echo "--------------"
+echo "Done! Looks for usion_4.3.7-20200113.fff in your current directory"
