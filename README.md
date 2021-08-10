@@ -3,7 +3,7 @@
  
  These are the Fusion-io utilties for Linux, for VSL versions 3.2.x and 4.3.x.
  
- Your system can only run one VSL version at a time, and each Fusion-io card will either work with VSL3 or VSL4, but not with both. Identify your cards and install the correct driver. 
+ Your system can only run one VSL version at a time, and each Fusion-io card will either work with VSL3 or VSL4, but not with both. Identify your cards and install the correct driver. Our community-edited [Fusion-io Parts Matrix](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQMd40liekOCeftUYQx6GeofHgjU5SSDT-jHWid03JCfswQxHAhVee3rW-04baqKg1qN2fp7wEzuFm6/pubhtml) may be of some help. 
  
  For VSL3 drivers, please see the project at https://github.com/snuf/iomemory-vsl
  For VSL4 drivers, please see the project at https://github.com/snuf/iomemory-vsl4
