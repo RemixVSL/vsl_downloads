@@ -5,8 +5,8 @@
  
  Your system can only run one VSL version at a time, and each Fusion-io card will either work with VSL3 or VSL4, but not with both. Identify your cards and install the correct driver. Our community-edited [Fusion-io Parts Matrix](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vQMd40liekOCeftUYQx6GeofHgjU5SSDT-jHWid03JCfswQxHAhVee3rW-04baqKg1qN2fp7wEzuFm6/pubhtml) may be of some help. 
  
- For VSL3 drivers, please see the project at https://github.com/snuf/iomemory-vsl
- For VSL4 drivers, please see the project at https://github.com/snuf/iomemory-vsl4
+ For VSL3 drivers, please see the project at https://github.com/RemixVSL/iomemory-vsl
+ For VSL4 drivers, please see the project at https://github.com/RemixVSL/iomemory-vsl4
 
 ## Firmware Files
 We've broken the firmware down into parts, and included scripts to recreate the original files (ending in `.fff`) from the parts.
