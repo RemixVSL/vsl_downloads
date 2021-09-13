@@ -18,7 +18,7 @@ We've included both .deb and .rpm packages. These are the original unmodified pa
 To get the files, simply run:
 
 ```
-git clone https://github.com/bplein/vsl_downloads.git
+git clone https://github.com/RemixVSL/vsl_downloads.git
 cd vsl_downloads
 ./mk_vsl3_firmware.sh #<--for VSL3 firmware
 ./mk_vsl4_firmware.sh #<--for VSL4 firmware
