@@ -25,6 +25,6 @@ cd vsl_downloads
 ```
 # How to Get Help
 - Open an issue in this Github repo
-- Join our Discord server at https://discord.gg/EAcujJkt
+- Join our Discord server at https://discord.gg/VxDvVy3EdS
 
 Let us know how we can make this Readme better!
